@@ -26,6 +26,12 @@ This project demonstrates:
 - CSS3
 - Remix Icon
 
+## 📖 Workshop Presentation
+
+You can find the full workshop presentation here:
+
+📄 [View / Download the Workshop PDF](workshop.pdf)
+
 ## Project Structure
 
 ```text
@@ -34,4 +40,6 @@ aiesec-web-workshop-portfolio/
 ├── index.html
 ├── style.css
 ├── profile.jfif
-└── README.md
+├── README.md
+├── preview.png
+└── workshop.pdf
